@@ -1,0 +1,65 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0
+}
+header{
+	background-color: #e60000;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 174px;
+    width: 300px;
+    border: 20px solid #ffd633;
+}
+
+.content{
+	max-width: 900px
+	margin 0 auto;
+	padding: 0 20px
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: #262626;
+	font-style: italic;
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+footer a{
+	color: yellow
+}
+footer{
+	color: white;
+}
+footer{
+	padding: 40px 20px;
+	background-color: #0d0d0d
+}
+
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 20px
+}
+html{
+	background-color: #ffd633;
+}
+/*<header>
+	<img src="img/profile.jpg">
+	<h1>Saitama</h1>
+</header>*/
